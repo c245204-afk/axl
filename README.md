@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>私のサイト</title>
+  <title>touch!!!</title>
 </head>
 <body>
   <h1>こんにちは!</h1>
