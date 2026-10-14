@@ -1,14 +1,12 @@
-# 2023_ds
-これはDSの演習です。
----
-# 見出し1
-##見出し2
-###見出し3
-………
-・_斜体
-- **太字**
-…・-
-[7hp](https://www.ncu.ac.jp)
----
-1https://www.nagoya-cu.ac.jp/sda/common/image/header-logo.png).
----
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>私のサイト</title>
+</head>
+<body>
+  <h1>こんにちは!</h1>
+  <p>GitHub Pagesで作った最初のページです。</p>
+</body>
+</html>
